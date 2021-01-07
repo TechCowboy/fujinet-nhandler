@@ -92,7 +92,6 @@ EOL     =     $9B     ; EOL CHAR
 
 	;; ORG HERE
 	ORG	$6000
-
 	
 RELOCATE_CODE_START:		
 ;; This is for OS/A+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
