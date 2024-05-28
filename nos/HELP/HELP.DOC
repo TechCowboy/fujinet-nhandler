@@ -3,10 +3,11 @@ HELP SYSTEM
 
 Type HELP <TOPIC> for more details.
 
-Topics  Description
+TOPIC   DESCRIPTION
 ------  -----------
 NOS     FujiNet NOS commands
 MAP     Memory map
-REF     Reference material
-BUGS    List of some known bugs
-
+REF     ATARI System Reference
+ASM     6502 Assembly Reference
+DEV     Developer Tool Reference
+UTL     Utility reference
